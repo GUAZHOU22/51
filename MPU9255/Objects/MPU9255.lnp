@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\MPU9255.obj" 
+TO ".\Objects\MPU9255" 
+PRINT(".\Listings\MPU9255.m51") RAMSIZE(256) 
